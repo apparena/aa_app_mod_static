@@ -1,8 +1,7 @@
 # App-Arena.com App Module: Static pages
 * **Github:** https://github.com/apparena/aa_app_mod_static
-* **Docs:**   http://www.appalizr.com/index.php/docs.html
-
-This is a module of the [aa_app_template](https://github.com/apparena/aa_app_template)
+* **Docs:** http://www.appalizr.com/index.php/terms.html
+* This is a module of the [aa_app_template](https://github.com/apparena/aa_app_template)
 
 ## Module job
 Shows some basic pages like imprint, privacy and terms and additional 3 blank pages that can be handled over the app-manager configs.
